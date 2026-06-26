@@ -1,1 +1,53 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>I Love You ❤️</title>
+
+<style>
+body{
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background:linear-gradient(to bottom,#ffdde1,#ee9ca7);
+    font-family:Arial,sans-serif;
+}
+
+.box{
+    text-align:center;
+}
+
+h1{
+    color:#d6004c;
+    font-size:55px;
+}
+
+a{
+    display:inline-block;
+    margin-top:25px;
+    padding:15px 30px;
+    background:#ff0055;
+    color:white;
+    text-decoration:none;
+    border-radius:50px;
+    font-size:25px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+    <h1>I Love You ❤️</h1>
+
+    <a href="https://www.youtube.com/watch?v=1Vogdyt0gJ4" target="_blank">
+        🎵 پخش آهنگ
+    </a>
+</div>
+
+</body>
+</html>
